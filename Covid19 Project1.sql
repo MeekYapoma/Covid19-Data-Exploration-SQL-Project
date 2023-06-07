@@ -119,14 +119,6 @@ WHERE Dea.continent IS NOT NULL
   
 
 
---  DROP TABLE IF EXISTS #VaccPop
---CREATE TABLE #VaccPop
---(Continent varchar(50),
---Location Varchar (50),
---date datetime,
---Population int,
---new_vaccination int,
---NewVaccinationSum int)
 
 
 
